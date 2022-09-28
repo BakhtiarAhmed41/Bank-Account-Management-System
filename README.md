@@ -1,2 +1,2 @@
 # Bank-Account-Management-System
-It is project for Bank Account Management System created with C++ using OOP concepts. It is a console based project.
+A Bank Account Management System created with C++ using OOP concepts. It is a terminal based project.
