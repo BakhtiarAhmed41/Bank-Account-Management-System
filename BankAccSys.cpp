@@ -224,7 +224,8 @@ int main()
     {
         cout<<"\nInvalid Account Selection";
     }
-end:
-    cout<<"\nThank You for Banking with us...";
-    return 0;
+
+    end:
+       cout<<"\nThank You for Banking with us...";
+       return 0;
 }
